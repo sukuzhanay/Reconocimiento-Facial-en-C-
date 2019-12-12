@@ -1,6 +1,3 @@
-/**
- * FaceDetectorMain.cpp by Olivia Stone for Code Clinic: C++
- **/
 
 #include <iostream>
 
