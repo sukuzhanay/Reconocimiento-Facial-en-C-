@@ -1,7 +1,3 @@
-/**
- * FaceDetector.cpp by Olivia Stone for Code Clinic: C++
- **/
-
 #include "FaceDetector.hpp"
 
 /* declaration for function in giflib_to_opencv.cpp to convert
