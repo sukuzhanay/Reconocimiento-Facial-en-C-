@@ -1,6 +1,3 @@
-/**
- * FaceDetector.hpp by Olivia Stone for Code Clinic: C++
- **/
 
 #ifndef FACEDETECTOR_H_
 #define FACEDETECTOR_H_
