@@ -1,4 +1,3 @@
-
 CC		= g++
 CFLAGS	= -std=gnu++17
 TARGET	= FaceDetector

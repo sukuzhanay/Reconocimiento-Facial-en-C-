@@ -1,4 +1,3 @@
-
 #ifndef FACEDETECTOR_H_
 #define FACEDETECTOR_H_
 
@@ -7,8 +6,6 @@
 #include <string>
 #include <vector>
 #include <cstdlib>
-
-#include <gif_lib.h>
 #include <opencv2/opencv.hpp>
 
 #include "json/json.h" // JSON support http://jsoncpp.sourceforge.net
